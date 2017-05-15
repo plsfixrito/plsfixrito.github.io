@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['screentoworld',['ScreenToWorld',['../class_elo_buddy_1_1_s_d_k_1_1_extensions.html#a8f49148afc9145ed75f046295cc56dce',1,'EloBuddy::SDK::Extensions']]],
+  ['sector',['Sector',['../class_elo_buddy_1_1_s_d_k_1_1_geometry_1_1_polygon_1_1_sector.html',1,'EloBuddy::SDK::Geometry::Polygon']]],
+  ['shop',['Shop',['../class_elo_buddy_1_1_shop.html',1,'EloBuddy']]],
+  ['shopactioneventargs',['ShopActionEventArgs',['../class_elo_buddy_1_1_shop_action_event_args.html',1,'EloBuddy']]],
+  ['shopcloseeventargs',['ShopCloseEventArgs',['../class_elo_buddy_1_1_shop_close_event_args.html',1,'EloBuddy']]],
+  ['shopopeneventargs',['ShopOpenEventArgs',['../class_elo_buddy_1_1_shop_open_event_args.html',1,'EloBuddy']]],
+  ['shopundopurchaseeventargs',['ShopUndoPurchaseEventArgs',['../class_elo_buddy_1_1_shop_undo_purchase_event_args.html',1,'EloBuddy']]],
+  ['simpleskillshot',['SimpleSkillshot',['../class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_simple_skillshot.html',1,'EloBuddy.SDK.Spell.SimpleSkillshot'],['../class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_simple_skillshot.html#a1f6686fc9ed802a6438c693f7cd834b2',1,'EloBuddy.SDK.Spell.SimpleSkillshot.SimpleSkillshot()']]],
+  ['skillshot',['Skillshot',['../class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html',1,'EloBuddy::SDK::Spell']]],
+  ['spell',['Spell',['../class_elo_buddy_1_1_s_d_k_1_1_spell.html',1,'EloBuddy::SDK']]],
+  ['spellbase',['SpellBase',['../class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_spell_base.html',1,'EloBuddy::SDK::Spell']]],
+  ['spellbook',['Spellbook',['../class_elo_buddy_1_1_spellbook.html',1,'EloBuddy']]],
+  ['spellbookcastspelleventargs',['SpellbookCastSpellEventArgs',['../class_elo_buddy_1_1_spellbook_cast_spell_event_args.html',1,'EloBuddy']]],
+  ['spellbooknotfoundexception',['SpellbookNotFoundException',['../class_elo_buddy_1_1_spellbook_not_found_exception.html',1,'EloBuddy']]],
+  ['spellbookstopcasteventargs',['SpellbookStopCastEventArgs',['../class_elo_buddy_1_1_spellbook_stop_cast_event_args.html',1,'EloBuddy']]],
+  ['spellbookupdatechargeablespelleventargs',['SpellbookUpdateChargeableSpellEventArgs',['../class_elo_buddy_1_1_spellbook_update_chargeable_spell_event_args.html',1,'EloBuddy']]],
+  ['spellcastexception',['SpellCastException',['../class_elo_buddy_1_1_s_d_k_1_1_spell_cast_exception.html',1,'EloBuddy::SDK']]],
+  ['spelldamagedatabase',['SpellDamageDatabase',['../class_elo_buddy_1_1_s_d_k_1_1_damage_library_manager_1_1_spell_damage_database.html',1,'EloBuddy::SDK::DamageLibraryManager']]],
+  ['spelldata',['SpellData',['../class_elo_buddy_1_1_spell_data.html',1,'EloBuddy']]],
+  ['spelldatainst',['SpellDataInst',['../class_elo_buddy_1_1_spell_data_inst.html',1,'EloBuddy']]],
+  ['spelldatainstnotfoundexception',['SpellDataInstNotFoundException',['../class_elo_buddy_1_1_spell_data_inst_not_found_exception.html',1,'EloBuddy']]],
+  ['spelldatanotfoundexception',['SpellDataNotFoundException',['../class_elo_buddy_1_1_spell_data_not_found_exception.html',1,'EloBuddy']]],
+  ['spellinfodata',['SpellInfoData',['../class_elo_buddy_1_1_spell_info_data.html',1,'EloBuddy']]],
+  ['sqrt',['Sqrt',['../class_elo_buddy_1_1_s_d_k_1_1_extensions.html#a719aee6492943e44c0700acda214d9a9',1,'EloBuddy.SDK.Extensions.Sqrt(this int number)'],['../class_elo_buddy_1_1_s_d_k_1_1_extensions.html#a51f75a35696ecc7e16d3c259aac8cb1c',1,'EloBuddy.SDK.Extensions.Sqrt(this uint number)'],['../class_elo_buddy_1_1_s_d_k_1_1_extensions.html#a044033cafe9994b4966751c97f707fde',1,'EloBuddy.SDK.Extensions.Sqrt(this double number)'],['../class_elo_buddy_1_1_s_d_k_1_1_extensions.html#a33998b800616d569bc2a51be08576f31',1,'EloBuddy.SDK.Extensions.Sqrt(this float number)']]],
+  ['state',['State',['../class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_spell_base.html#aa899c0e60e643452f446f88300d69185',1,'EloBuddy::SDK::Spell::SpellBase']]]
+];

@@ -1,0 +1,28 @@
+var class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot =
+[
+    [ "BestPosition", "struct_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot_1_1_best_position.html", "struct_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot_1_1_best_position" ],
+    [ "Skillshot", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a5d2e31078fa49a6e78166db72f77a6e6", null ],
+    [ "Skillshot", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#abf00b91b1b1fbad467d77ffd00790135", null ],
+    [ "Cast", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a3014be500e9277f3960c7a87d173fa8f", null ],
+    [ "Cast", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#afe526c96057528f040e6316ad7620a62", null ],
+    [ "CastIfItWillHit", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#ad7a0be77a011d1fff07096c1764a816d", null ],
+    [ "CastMinimumHitchance", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a25b4ba5f6eb616233e8ef89536b9be31", null ],
+    [ "CastMinimumHitchance", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a340aae18e4debddac586f34dbea37450", null ],
+    [ "CastOnBestFarmPosition", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#aeaa5d95aaab6b65bb84e565c17633e90", null ],
+    [ "CastStartToEnd", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a50d89c3d8faff1f82f2a2dacb7d96652", null ],
+    [ "CastStartToEndAoe", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a3eb9e1e24dad12641d35172e87a7bc66", null ],
+    [ "GetBestCircularCastPosition", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a8a6fe9a9f43b0e76c6e526f4f5124a60", null ],
+    [ "GetBestConeCastPosition", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#afc013f39eb98fb18c4953ff31962cbda", null ],
+    [ "GetBestLinearCastPosition", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#abfeecdb63e79eec6cbe289433010cb0e", null ],
+    [ "GetHealthPrediction", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a17f567968420dbde834a9fe10c205b00", null ],
+    [ "GetPrediction", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a94b6d11af8242dc21c8fd9c03348cc5b", null ],
+    [ "AllowedCollisionCount", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a5ba02d66a67eb52c4ab9a8754cde4bf7", null ],
+    [ "ConeAngleDegrees", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a8556b6e24eadc61202d210e6b651858f", null ],
+    [ "HasCollision", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a2ec7a1a2d08275b7e0505182749735ae", null ],
+    [ "MinimumHitChance", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a07a01285bb22d714e15e4db3611fa42a", null ],
+    [ "Radius", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a48ad0d9ed9a06c89be32c7b3a9561d50", null ],
+    [ "SourcePosition", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a8f2ee12fe7aa8cffa2568cfc8d954ed9", null ],
+    [ "Speed", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a692ee648d5531409a00ebf47d6ffc8a3", null ],
+    [ "Type", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a4c7001ae65e147c82edc4db5ca1c5281", null ],
+    [ "Width", "class_elo_buddy_1_1_s_d_k_1_1_spell_1_1_skillshot.html#a4d3379fce3c7ff024a1e69a8ade756c3", null ]
+];
